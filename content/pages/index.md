@@ -11,7 +11,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        style: secondary
+        style: link
     title: Fluchtweg Hamburg  Live Escape Game
   - section_id: features
     type: section_features
